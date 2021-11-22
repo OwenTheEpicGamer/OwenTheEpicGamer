@@ -1,6 +1,6 @@
 Hey I’m @OwenTheEpicGamer!
 I love to program in many different languages (Java, C++, HTML, CSS, Javascript) :))
-Currently, I am learning a couple new frameworks for front-end development:
+Currently, I am learning a couple new frameworks + libraries for front-end development:
 - React
 - Vue or Angular
 - Bootstrap
