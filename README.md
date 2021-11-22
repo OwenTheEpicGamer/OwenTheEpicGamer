@@ -4,6 +4,7 @@ Currently, I am learning a couple new frameworks + libraries for front-end devel
 - React
 - Vue or Angular
 - Bootstrap
+- TailwindCSS
 - Discord.js
 
 In my free time, I also enjoy learning science, taking hikes in nature and playing video games such as League of Legends, Genshin Impact and Valorant!
