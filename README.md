@@ -1,11 +1,11 @@
-Hey I’m @OwenTheEpicGamer!
-I love to program in many different languages (Java, C++, HTML, CSS, Javascript) :))
-Currently, I am learning a couple new frameworks + libraries for front-end development:
-- React
-- Vue or Angular
-- Bootstrap
-- TailwindCSS
-- Discord.js
+Hey I’m Owen!
+I love to program and work on different projects that can hopefully have a positive impact on the world. Throughout the past few years, I've learned and made projects using a variety of languages and frameworks, such as: Java, HTML5/CSS, Javascript, Swift, React and Discord.JS. 
 
-In my free time, I also enjoy learning science, taking hikes in nature and playing video games such as League of Legends, Genshin Impact and Valorant!
+Currently, I am learning some frameworks and technologies that will hopefully allow me to make some more cool projects in the future (such as a machine learning based Ring doorbell app), including:
+- TensorFlow
+- Python
+- Flask
+
+In my free time, I also enjoy going stargazing, going for walks around cities and taking photos, and meeting new people! 
+
 
