@@ -6,6 +6,6 @@ Currently, I am learning some frameworks and technologies that will hopefully al
 - Python
 - Flask
 
-In my free time, I also enjoy going stargazing, going for walks around cities and taking photos, and meeting new people! 
+In my free time, I also enjoy stargazing, going for walks around cities and taking photos, and meeting new people! 
 
 
